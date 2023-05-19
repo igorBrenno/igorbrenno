@@ -33,7 +33,7 @@
   &nbsp;
  <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   &nbsp;
-<img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3982CE?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
   <br/>
 
